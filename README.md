@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @121Unicorns
+- 👋 Hi, I’m Michelle
 - 👀 I’m interested in Mobile and Web development
-- 🌱 I’m currently learning Javascript, Python and C#
-- 💞️ I’m looking to collaborate on Android projects in Java, web projects in HTML/CSS/JS
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python and Dart
+- 💞️ I’m looking to collaborate on Android projects in Java, Java projects, C/C++, Web projects in React, HTML/CSS/JS, Node.js
+- 📫 How to reach me @michelle-oyiolo on LinkedIn
 
 <!---
 121Unicorns/121Unicorns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
