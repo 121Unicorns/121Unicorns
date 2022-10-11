@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michelle
 - 👀 I’m interested in Mobile and Web development
-- 🌱 I’m currently learning Python and Dart
+- 🌱 I’m currently learning Python and ReactNative
 - 💞️ I’m looking to collaborate on Android projects, Java projects, C/C++, Web projects in React, HTML/CSS/JS, Node.js
 - 📫 How to reach me @michelle-oyiolo on LinkedIn
 
