@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 - 💞️ I’m looking to collaborate on Android projects, Java projects, C/C++, React, React Native, HTML/CSS/JS, Node.js
 
-<br/>
+<br/><br/><br/>
+
 <h1 align="center" > Connect with me 🤝 </h3>
 
 <p align="center">
