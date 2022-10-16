@@ -9,10 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/><br/>
 <a target="_blank" align="center">
-  <img align="right" top="500" alt="prof" src="https://images.weserv.nl/?url=https://github.com/121Unicorns/snaps/raw/main/profile2.png&h=300&w=300&fit=cover&mask=circle"/>
-  
-  
-  
+  <img src="https://github.com/121Unicorns/snaps/raw/main/profile2.png"/>
 </a>
 
 - 🔭 I’m currently finishing my degree in Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
