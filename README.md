@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-     <a href="https://www.linkedin.com/in/adam-pithewan/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img src="https://img.icons8.com/color-glass/48/000000/github--v1.png"/></a>
-  <a href="https://instagram.com/_._.adam._" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="48" width="48" /></a>
+     <a href="https://www.linkedin.com/in/michelle-oyiolo/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/121Unicorns?tab=repositories" target="blank"><img src="https://img.icons8.com/color-glass/48/000000/github--v1.png"/></a>
+  <a href="https://www.hackerrank.com/michunicorns" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="48" width="48" /></a>
 </div>
 
 </p>
