@@ -4,8 +4,8 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hello there 👋,<br/><br/> My name is <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Michelle</a></h1>
-<h3 align="center">A software engineer working primarily in frontend and mobile development</h3>
+<h1 align="center">Hello there 👋,<br/>My name is <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Michelle</a></h1>
+<h3 align="center">I am a software engineer working primarily in frontend and mobile development</h3>
 
 <br/>
   <img align="right" height="200" width="200" border-radius="50" top="500" alt="prof" src="https://github.com/121Unicorns/snaps/raw/main/profile3.png"/>
