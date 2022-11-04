@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-- 🔭 I’m currently working on my degree in Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
+- 🔭 I have a degree in Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
 - 👀 I’m interested in Mobile and Frontend development
 - 🌱 I’m currently learning Python and ReactNative
 - 💞️ I’m looking to collaborate on Android projects, Java projects, C/C++, React, React Native, HTML/CSS/JS, Node.js
