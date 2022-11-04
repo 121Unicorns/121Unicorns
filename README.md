@@ -8,12 +8,10 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">I am a software engineer working primarily in frontend and mobile development</h3>
 
 <br/>
-  <img align="right" height="190" width="190" border-radius="50" top="500" alt="prof" src="https://github.com/121Unicorns/snaps/raw/main/profile3.png"/>
 
 - 🔭 I’m currently working on my degree in Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
 - 👀 I’m interested in Mobile and Frontend development
 - 🌱 I’m currently learning Python and ReactNative
-- 🤝 I’m available for full time employment and freelance work.
 - 💞️ I’m looking to collaborate on Android projects, Java projects, C/C++, React, React Native, HTML/CSS/JS, Node.js
 
 <br/>
