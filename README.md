@@ -5,14 +5,13 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hello there 👋,<br/>My name is <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Michelle</a></h1>
-<h3 align="center">I am a software engineer working primarily in frontend and mobile development</h3>
+<h3 align="center">I am a software engineer working in frontend and mobile development</h3>
 
 <br/>
 
-- 🔭 I have a degree in Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
+- 🔭 Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
 - 👀 I’m interested in Mobile and Frontend development
-- 🌱 I’m currently learning Python and ReactNative
-- 💞️ I’m looking to collaborate on Android projects, Java projects, C/C++, React, React Native, HTML/CSS/JS, Node.js
+- 🌱 I’m always learning
 
 <br/>
 
@@ -34,14 +33,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-     <img src="https://img.icons8.com/office/48/null/express-js.png"/>
      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
      <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
-     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-     <img src="https://img.icons8.com/color/48/FA5252/python--v1.png"/>
      <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </div>
 
