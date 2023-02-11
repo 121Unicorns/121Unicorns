@@ -4,15 +4,13 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hello there 👋,<br/>My name is <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Michelle</a></h1>
-<h3 align="center">Software Engineer | Frontend and Mobile development</h3>
+<h1 align="left">Hello there 👋,<br/>My name is Michelle</a></h1>
+<h4 align="left">Software Engineer | Frontend & Mobile Development</h4>
 
 <br/>
 
 - 🔭 BSc. Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
 - 👀 I’m interested in Mobile and Frontend development
-
-<br/>
 
 <h1 align="left" > Connect with me 🤝 </h3>
 
@@ -26,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<br/>
 <h1 align="left" > Tech Stack :woman_technologist: </h3>
 
 <p align="left">
