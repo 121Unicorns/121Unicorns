@@ -5,13 +5,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hello there 👋,<br/>My name is <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">Michelle</a></h1>
-<h3 align="center">I am a software engineer working in frontend and mobile development</h3>
+<h3 align="center">Software Engineer | Frontend and Mobile development</h3>
 
 <br/>
 
-- 🔭 Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
+- 🔭 BSc. Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
 - 👀 I’m interested in Mobile and Frontend development
-- 🌱 I’m always learning
 
 <br/>
 
