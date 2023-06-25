@@ -28,10 +28,11 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
+     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+     <img src="https://img.icons8.com/color/48/000000/typescript--v1.png"/>
      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
      <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
-     <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 </div>
 
 </p>
