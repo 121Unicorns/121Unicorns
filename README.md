@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-<h1 align="left" > Tech Stack :woman_technologist: </h3>
+<h1 align="left" > Tech Stack 👩🏾‍💻 </h3>
 
 <p align="left">
 
