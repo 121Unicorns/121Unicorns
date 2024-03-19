@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 <h4 align="left" marginBottom="3px" >Software Engineer | Frontend & Mobile Development</h4>
 
 
-- 🔭 BSc. Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
+- 🔭 <a href="[https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology](https://www.linkedin.com/posts/united-states-international-university-africa_usiuclassof2023-launchyournextchapter-activity-7118900973040771073-oPsH?trk=public_profile_like_view)" target="blank">Valedictorian</a> BSc. Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
 - 🔭 Diploma in Mobile Application development from <a href="https://riarauniversity.ac.ke/professional-programmes/#1500398216265-f0da94a2-3d68" target="blank">Riara University</a>
 - 👀 I’m interested in Fullstack development
 
