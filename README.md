@@ -36,6 +36,8 @@ You can click the Preview link to take a look at your changes.
      <img src="https://img.icons8.com/color/48/000000/typescript--v1.png"/>
      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
      <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
+     <img src="https://img.icons8.com/color/48/kotlin.png"/>
+  
 </div>
 
 </p>
