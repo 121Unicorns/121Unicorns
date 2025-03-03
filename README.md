@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="left">Hello there 👋,<br/>My name is Michelle</a></h1>
-<h4 align="left" marginBottom="3px" >Software Engineer | Frontend & Mobile Development</h4>
+<h4 align="left" marginBottom="3px" >Software Engineer</h4>
 
 
 - 🔭 <a href="https://www.linkedin.com/posts/united-states-international-university-africa_usiuclassof2023-launchyournextchapter-activity-7118900973040771073-oPsH?trk=public_profile_like_view" target="blank">Class of 2023 Valedictorian</a> with a BSc. Applied Computer Technology from the <a href="https://www.usiu.ac.ke/resource/bachelor-of-science-in-applied-computer-technology" target="blank">United States International University, Africa</a>
@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
      <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
      <img src="https://img.icons8.com/color/48/kotlin.png"/>
+     <img src="https://img.icons8.com/color/48/google-firebase-console.png"/>
   
 </div>
 
