@@ -38,6 +38,8 @@ You can click the Preview link to take a look at your changes.
      <img src="https://img.icons8.com/color/48/000000/android-os.png"/>
      <img src="https://img.icons8.com/color/48/kotlin.png"/>
      <img src="https://img.icons8.com/color/48/google-firebase-console.png"/>
+     <img src="https://img.icons8.com/?size=48&id=22189&format=png&color=000000"/>
+     <img src="https://img.icons8.com/?size=48&id=12eMo7h5rCTp&format=png&color=000000"/>
   
 </div>
 
